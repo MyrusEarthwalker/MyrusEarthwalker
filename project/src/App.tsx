@@ -37,10 +37,10 @@ function App() {
         <div className="absolute inset-0 bg-slate-900/70"></div>
         <div className="relative z-1 max-w-3xl mx-auto text-center px-4">
           <h1 className="text-4xl font-light text-white sm:text-5xl">
-            IT Professional
+            Myrus
           </h1>
           <p className="mt-4 text-slate-200">
-            Building secure and efficient systems
+            Chasing infinites, both ways
           </p>
         </div>
       </section>
@@ -56,8 +56,8 @@ function App() {
                 alt="Project 1" 
                 className="w-full aspect-video object-cover" />
               <div className="p-4">
-                <h3 className="text-lg text-slate-900">Cybersecurity Dashboard</h3>
-                <p className="mt-1 text-sm text-slate-600">Security monitoring and analysis</p>
+                <h3 className="text-lg text-slate-900">Coming soon!</h3>
+                <p className="mt-1 text-sm text-slate-600">Password Manager</p>
               </div>
             </div>
 
@@ -67,8 +67,8 @@ function App() {
                 alt="Project 2" 
                 className="w-full aspect-video object-cover" />
               <div className="p-4">
-                <h3 className="text-lg text-slate-900">System Automation</h3>
-                <p className="mt-1 text-sm text-slate-600">Task automation tools</p>
+                <h3 className="text-lg text-slate-900">Coming Soon!</h3>
+                <p className="mt-1 text-sm text-slate-600">Network scanner</p>
               </div>
             </div>
 
@@ -78,8 +78,8 @@ function App() {
                 alt="Project 3" 
                 className="w-full aspect-video object-cover" />
               <div className="p-4">
-                <h3 className="text-lg text-slate-900">Hardware Diagnostics</h3>
-                <p className="mt-1 text-sm text-slate-600">System optimization tools</p>
+                <h3 className="text-lg text-slate-900">Coming soon!</h3>
+                <p className="mt-1 text-sm text-slate-600">Data scraper</p>
               </div>
             </div>
           </div>
@@ -91,7 +91,7 @@ function App() {
         <div className="max-w-3xl mx-auto px-4">
           <h2 className="text-xl font-medium text-slate-900 mb-4">About</h2>
           <p className="text-slate-600">
-            IT professional in Denver specializing in cybersecurity, Linux systems, and hardware optimization. Focused on building efficient, secure solutions.
+            IT professional in Denver.
           </p>
         </div>
       </section>
